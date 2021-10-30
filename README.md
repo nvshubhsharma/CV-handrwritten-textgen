@@ -1,6 +1,6 @@
 # CV-handrwritten-textgen
 
-Used Pytesseract-OCR and OpenCV to convert text file into an handwritten image.
+Used Pytesseract-OCR and OpenCV to convert a text containing image into an handwritten image.
 
 Character directory is given
 

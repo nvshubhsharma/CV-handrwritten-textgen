@@ -1,0 +1,21 @@
+Preprocessing of images using OpenCV
+We will write basic functions for different preprocessing methods
+
++ grayscaling
++ thresholding
+
++ dilating
+
++ eroding
+
++ opening
+
++ canny edge detection
++ noise removal
+
++ deskwing
+
++ template matching
+
+Different methods can come in handy with different kinds of images.
+
